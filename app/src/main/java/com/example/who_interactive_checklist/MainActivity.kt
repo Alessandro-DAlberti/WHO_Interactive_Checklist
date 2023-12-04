@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Marco ciaao Bottura e Alessandro D'Alberti")
+                    Greeting("Android")
                 }
             }
         }
